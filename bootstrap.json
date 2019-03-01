@@ -1,8 +1,15 @@
 {
-  "adminUsers": {},
+  "adminUsers": {"SooioJjGrVWEIjEEFllV5AuAYNf1": true},
   "boards": {
     "0": {
-      "title": "General discussion",
+      "title": "General",
+      "active": true,
+      "threads": {
+        "0": true
+      }
+    }
+    "1": {
+      "title": "Collaboration",
       "active": true,
       "threads": {
         "0": true
@@ -17,14 +24,21 @@
         "0": true
       }
     }
+    "1": {
+      "title": "Wellness",
+      "active": true,
+      "boards": {
+        "0": true
+      }
+    }
   },
   "posts": {
     "0": {
-      "body": "refire-forum has been successfully setup",
+      "body": "credits include refire forum and react. thank you for all the fish",
       "createdAt": "1457180850877",
       "threadId": "0",
       "user": {
-        "displayName": "Refire Bootstrap",
+        "displayName": "Saymeta test 1",
         "id": "not-available",
         "image": ""
       }
@@ -46,7 +60,21 @@
       },
       "title": "Welcome",
       "user": {
-        "displayName": "Refire Bootstrap",
+        "displayName": "sayMeta",
+        "id": "not-available",
+        "image": ""
+      }
+    }
+    "1": {
+      "boardId": "1",
+      "createdAt": "1457180850877",
+      "lastPostAt": "1457180850877",
+      "posts": {
+        "1": true
+      },
+      "title": "Let's build te future together",
+      "user": {
+        "displayName": "sayMeta",
         "id": "not-available",
         "image": ""
       }
